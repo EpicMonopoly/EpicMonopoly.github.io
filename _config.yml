@@ -6,7 +6,7 @@ description: >
 
 baseurl: "/EpicMonopoly.github.io" # the subpath of your site, e.g. /blog/
 url: https://spacebody.cn/EpicMonopoly.github.io/ # the base hostname & protocol for your site
-git_address: https://spacebody.cn/EpicMonopoly.github.io/
+git_address: https://github.com/SuperBrilliantMonopoly
 git_edit_address: https://spacebody.cn/EpicMonopoly.github.io/
 
 # theme options from https://bootswatch.com/
