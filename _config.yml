@@ -1,37 +1,55 @@
-# Dependencies
-markdown:         kramdown
-highlighter:      rouge
+# Site settings
+title: EpicMonopoly
+email: 
+description: >
+  OOP course project EpicMonopoly
 
-# Setup
-title:            Hydeout
-tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
-url:              https://fongandrew.github.io/hydeout
-baseurl:          # the optional subpath of your site, e.g. "/blog"
-                  # NB: This applies to all pages in your Jekyll site.
-                  # If you want to move just the blog index pages but keep
-                  # other pages at root, see the paginate_path and
-                  # sidebar_blog_link below.
+baseurl: "/jekyll-doc-theme" # the subpath of your site, e.g. /blog/
+url: https://spacebody.cn/EpicMonopoly.github.io/ # the base hostname & protocol for your site
+git_address: https://spacebody.cn/EpicMonopoly.github.io/
+git_edit_address: https://spacebody.cn/EpicMonopoly.github.io/
 
-author:
-  name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
+# theme options from https://bootswatch.com/
+# comment out this to use default Bootstrap
+bootwatch: paper
 
-paginate:         5
-# paginate_path:    '/page:num'
-                    # Or '/blog/page:num' if you want to move your index pages
-
-plugins:
+# Build settings
+markdown: kramdown
+highlighter: rouge
+gems:
   - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
-# Custom vars
-version:            3.4.1
-sidebar_home_link:  true
-# sidebar_blog_link:  '/blog'   # By default, your home page is your blog
-                                # page. If you change your paginate_path,
-                                # set this to the root of the paginate_path
-                                # to enable a separate blog link.
-github:
-  repo:             https://github.com/fongandrew/hydeout
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - .idea/
+  - .gitignore
+  - README.md
+timezone: Europe/Berlin
+defaults:
+- scope:
+    path: _posts
+    type: posts
+  values:
+    layout: post
+    sectionid: blog
+
+- scope:
+    path: _docs
+    type: docs
+  values:
+    layout: docs
+    sectionid: docs
+    seo:
+      type: "WebPage"
+
+collections:
+  docs:
+    permalink: /:collection/:path/
+    output: true
+  posts:
+    permalink: /blog/:year/:month/:day/:title/
+    output: true
