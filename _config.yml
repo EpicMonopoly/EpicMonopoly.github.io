@@ -4,7 +4,7 @@ email:
 description: >
   OOP course project EpicMonopoly
 
-baseurl: "/jekyll-doc-theme" # the subpath of your site, e.g. /blog/
+baseurl: "/EpicMonopoly.github.io" # the subpath of your site, e.g. /blog/
 url: https://spacebody.cn/EpicMonopoly.github.io/ # the base hostname & protocol for your site
 git_address: https://spacebody.cn/EpicMonopoly.github.io/
 git_edit_address: https://spacebody.cn/EpicMonopoly.github.io/
