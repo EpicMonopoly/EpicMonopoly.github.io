@@ -1,6 +1,9 @@
 ---
 title: Rules
-permalink: /docs/rules/
+permalink: /docs/home/
 ---
 
 ## Rules of EpicMonopoly
+asdasdasda
+
+asdasd
