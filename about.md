@@ -1,6 +1,6 @@
 ---
 layout: about
-title:
+title: About us and project
 sectionid: about
 permalink: /about
 ---
