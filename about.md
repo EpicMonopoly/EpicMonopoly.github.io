@@ -29,4 +29,4 @@ permalink: /about
 
 **If you are interested in this project, welcome to contact us on Github. Like us? Support us through Alipay**
 
-<img src="https://github.com/Spacebody/EpicMonopoly.github.io/blob/master/pay.jpg" width="40%" height="40%" />
+<img src="../pay.jpg" width="40%" height="40%" />
