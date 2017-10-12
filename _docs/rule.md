@@ -2,7 +2,7 @@
 title: Rules
 permalink: /docs/rule/
 ---
-<big>
+
 ### Start up
 Every enterpriser will \$1500 as initial cash, or the initial cash is determined by the difficulty of the game, or player can set custom configuration.
 
@@ -106,4 +106,3 @@ There two ways to win the game:
 
 - The last player who does not go bankrupt.
 - At the end of the time limit, the player who has the highest of the total assets is victorious.
-</big>
