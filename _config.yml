@@ -6,7 +6,7 @@ description: >
 
 baseurl: "/EpicMonopoly.github.io" # the subpath of your site, e.g. /blog/
 url: https://epicmonopoly.github.io/EpicMonopoly.github.io/ # the base hostname & protocol for your site
-git_address: https://github.com/epicmonopoly
+git_address: https://github.com/EpicMonopoly
 git_edit_address: https://github.com/EpicMonopoly/EpicMonopoly.github.io #need to change after transfer
 
 # theme options from https://bootswatch.com/
