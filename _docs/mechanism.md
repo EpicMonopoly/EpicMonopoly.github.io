@@ -7,8 +7,8 @@ permalink: /docs/mechanism/
 
 There are some creative mechanisms in our version:
 
-- Random generated and dynamic map
-- Economic factor(EF)
 - Alliance and Country
-- Weak plays limit
 - Custom difficulty
+- Economic factor(EF)
+- Random generated and dynamic map
+- Weak plays limit
