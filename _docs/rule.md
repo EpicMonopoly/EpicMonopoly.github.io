@@ -15,6 +15,7 @@ Map consists of 40 spots, including start point, jail, in jail/just visiting, fr
 For every 5 turns of game, the system will autonomy change the relative position of the real-estates, stations, public utilities.
 
 ### Economic factor(EF)
+
 For every 5 turns, the system will generate EF randomly.
 
 
@@ -22,10 +23,10 @@ The range of EF depends on the difficult of the game. For easy model, the EF wil
 
 ### Alliance and Country
 
-There are two alliances, Asia, America & Europe. They have four countries respective.
+There are two alliances, Asia, America & Europe. They have four countries respectively.
 
 - Asia: China, Japan, India, Russia
-- America & Europe: United States, Canada, United Kingdom, German.
+- America & Europe: United States, Canada, United Kingdom, Germany.
 
 If an enterprise enters a spot which own by his/her alliance, the owner should charge 90% of original value. If the number of countries of two alliances is different, the larger alliance owner should charge 92% of original value.
 
