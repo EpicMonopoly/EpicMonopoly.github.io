@@ -1,8 +1,8 @@
-# Jekyll Doc Theme
+## EpicMonopoly 
 
-Go to [the website](https://aksakalli.github.io/jekyll-doc-theme/) for detailed information and demo.
+Noval monopoly games with great joys.
 
-## Running locally
+## Update and debug locally
 
 You need Ruby and gem before starting, then:
 
@@ -17,6 +17,10 @@ cd jekyll-doc-theme
 # run jekyll with dependencies
 bundle exec jekyll serve
 ```
+
+## Acknowledgements
+
+This website uses the source code on Jekyll theme. Go to [the website](https://aksakalli.github.io/jekyll-doc-theme/) for detailed information and demo.
 
 ## License
 
