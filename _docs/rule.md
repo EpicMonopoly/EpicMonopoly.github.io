@@ -2,7 +2,7 @@
 title: Rules
 permalink: /docs/rule/
 ---
-
+<big>
 ### Start up
 Every enterpriser will \$1500 as initial cash, or the initial cash is determined by the difficulty of the game, or player can set custom configuration.
 
@@ -27,12 +27,13 @@ When the number of real-estate is less than 50%, new entrance policy is abandon.
 The new enterprisers’ initial cash depends on original initial cash and the largest amount of toal money enterprisers get from “Start Spot” so far. For example, the initial cash is \$1500, the largest amount of total money got from “Start Spot” is $600, so the enterpriser will get \$2100.
 
 ### Difficulty
+There are three difficulties:
 #### Easy
 Initial cash is $2000, the fluctuation of EF less than 5%. The original bonus when passing by “Start Spot” is \$250. The number of house and hotel are no limited.
 #### Norm
 Initial cash is $1500, the fluctuation of EF less than 10%. The original bonus when passing by “Start Spot” is \$200. The number of house and hotel are 32 and 12 respective.
 #### Hard
-Initial cash is $1000, the fluctuation of EF less than 15%. The original bonus when passing by “Start Spot” is $150. The number of house and hotel are 26 and 8 respective.
+Initial cash is $1000, the fluctuation of EF less than 15%. The original bonus when passing by “Start Spot” is \$150. The number of house and hotel are 26 and 8 respective.
 
 ### Chance 
 Society Chest
@@ -105,4 +106,4 @@ There two ways to win the game:
 
 - The last player who does not go bankrupt.
 - At the end of the time limit, the player who has the highest of the total assets is victorious.
-
+</big>
