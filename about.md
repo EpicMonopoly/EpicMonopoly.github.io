@@ -7,7 +7,7 @@ permalink: /about
 
 ## Who are we
 
-**We are students majoring in <a href="http://cse.sustc.edu.cn">Computer Science and Engineering</a> in <a href="http://www.sustc.edu.cn">Southern University and Technology</a>, Shenzhen, Guangdong, China.**
+**We are students majoring in <a href="http://cse.sustc.edu.cn">Computer Science and Engineering</a> in <a href="http://www.sustc.edu.cn">Southern University of Science and Technology</a>, Shenzhen, Guangdong, China.**
 
 **Our groups have fives developers:**
 
