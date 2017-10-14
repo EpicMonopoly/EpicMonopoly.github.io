@@ -11,11 +11,16 @@ You need Ruby and gem before starting, then:
 gem install bundler
 
 # clone the project
-git clone https://github.com/aksakalli/jekyll-doc-theme.git
-cd jekyll-doc-theme
+https://github.com/EpicMonopoly/EpicMonopoly.github.io.git
+
+# enter the folder
+cd EpicMonopoly.github.io.git
 
 # run jekyll with dependencies
 bundle exec jekyll serve
+
+# or debug with increment
+bundle exec jekyll serve --incremental
 ```
 
 ## Acknowledgements
