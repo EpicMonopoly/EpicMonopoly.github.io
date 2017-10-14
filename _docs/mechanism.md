@@ -47,8 +47,13 @@ The range of EF depends on the difficult of the game.
 
 ### Random generated and dynamic map
 
-constructing
+The map will be randomly generated at the beginning of a game, then after every **5** turns, the blocks will be resorted in the map.
 
 ### Weak plays limit
 
-constructing
+New players can join the game as enterprisers but will be limited on following conditions:
+
+- less than 6 players existing in the current game
+- the number of real-estate is larger than 50%
+
+IF both conditions are met, the new players can apply to join the game with the agreement of all current players. And the new player's initial cash depends on original initial cash and the largest amount of toal money enterprisers get from “Start Spot” from game beginning till the turn he/she joins. 

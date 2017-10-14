@@ -35,7 +35,7 @@ If an enterprise enters a spot which own by his/her alliance, the owner should c
 The number of enterprisers are 2 to 6. When the enterprisers are less than 6, new enterprisers can enter the game if all the enterprisers agree.
 
 
-When the number of real-estate is less than 50%, new entrance policy is abandon.
+When the number of real-estate is less than 50%, new entrance policy is abandoned.
 
 
 The new enterprisers’ initial cash depends on original initial cash and the largest amount of toal money enterprisers get from “Start Spot” so far. For example, the initial cash is \$1500, the largest amount of total money got from “Start Spot” is $600, so the enterpriser will get \$2100.
