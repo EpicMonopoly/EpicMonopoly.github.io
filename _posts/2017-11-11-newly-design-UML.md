@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to EpicMonopoly"
+title:  "New UML"
 date:   2017-11-11 22:22:34
 author: Yilin Zheng
 ---
