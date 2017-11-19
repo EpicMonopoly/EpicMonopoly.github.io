@@ -53,3 +53,6 @@ collections:
   posts:
     permalink: /blog/:year/:month/:day/:title/
     output: true
+
+# Google Analytics
+google_analytics: UA-109841901-1
