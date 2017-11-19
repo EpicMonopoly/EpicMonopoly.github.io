@@ -14,7 +14,7 @@ The game logic has been finished and we will process to review and fix bugs if a
 
 ### Nov. 11, 2017
 
-The [UML](https://github.com/EpicMonopoly/Epic-Monopoly-Design/blob/master/UML/class_demo.vsdx) has been redesigned then soon we will begin developing the back end and front end.
+The UML has been redesigned then soon we will begin developing the back end and front end.
 
 Time is limited and we are under big pressure.
 
