@@ -8,6 +8,10 @@ permalink: /docs/update/
 This web game is undering developing.
 
 ---
+### Nov. 23, 2017
+Version 1.0.0 completed and conducted internal test. However all the codes will not public until all the work done.
+
+
 ### Nov. 22, 2017
 We are happy to launch the command-like version EpicMonopoly as it can acts normally in terminal.
 Later we will accrelate our developing as the project of AI is near due.
